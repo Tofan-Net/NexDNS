@@ -9,3 +9,5 @@ connect.rom.miui.com
 api.gallery.intl.miui.com
 tracking.intl.miui.com
 mcc.intl.inf.miui.com
+api.ad.intl.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com

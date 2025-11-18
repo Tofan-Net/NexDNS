@@ -1,0 +1,11 @@
+asia.pool.ntp.org
+connectivitycheck.unisoc.com
+resolv.msg.global.xiaomi.net
+connectivitycheck.platform.hihonorcloud.com
+jupiter.intl.sys.miui.com
+app.chat.global.xiaomi.net
+api.brs.intl.miui.com
+connect.rom.miui.com
+api.gallery.intl.miui.com
+tracking.intl.miui.com
+mcc.intl.inf.miui.com

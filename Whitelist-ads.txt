@@ -1,13 +1,18 @@
-asia.pool.ntp.org
+# Connectivity loops
 connectivitycheck.unisoc.com
-resolv.msg.global.xiaomi.net
 connectivitycheck.platform.hihonorcloud.com
+
+# Xiaomi MIUI core system
+api.ad.intl.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
 jupiter.intl.sys.miui.com
-app.chat.global.xiaomi.net
-api.brs.intl.miui.com
+resolver.msg.global.xiaomi.net
 connect.rom.miui.com
+api.brs.intl.miui.com
 api.gallery.intl.miui.com
 tracking.intl.miui.com
 mcc.intl.inf.miui.com
-api.ad.intl.xiaomi.com
-sdkconfig.ad.intl.xiaomi.com
+app.chat.global.xiaomi.net
+
+# NTP loops (important!)
+asia.pool.ntp.org
